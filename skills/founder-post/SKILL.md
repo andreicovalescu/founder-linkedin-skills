@@ -63,7 +63,7 @@ direct claim followed immediately by the one thing to do about it.
   testament to, "in today's fast-paced world", "let that sink in",
   "it's not just X, it's Y", rule-of-three triads used as a crutch.
 - No em dashes, ever. Comma, period, or colon instead. Check every draft
-  for a long dash character before handing it back.
+  for "—" and "&mdash;" before handing it back.
 - Vary sentence length on purpose. A run of same-length sentences is the
   single most common AI tell; if any sentence could swap places with any
   other, rewrite.
