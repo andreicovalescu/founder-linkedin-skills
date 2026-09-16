@@ -137,7 +137,13 @@ under your name. If a draft needs a number you haven't given, it comes
 back with `{{your number}}` and a flag, every time.
 
 ## Files
+
+```
 skills/founder-human/slop.json       the lexicon: stock phrases, invisible-character classes, structural tells
 skills/founder-human/humanize.py     the cleaning pass
 skills/founder-human/detect.py       the five-check panel
 templates/voice.md                   your voice profile, fill this in first
+```
+
+Every other skill is self-contained in its own `SKILL.md`, no extra data
+files needed.
