@@ -1,6 +1,6 @@
-# founder-linkedin-skills
+# linkedin-skills
 
-Eleven Claude skills for running LinkedIn as a startup founder or early
+Eleven Claude skills for running LinkedIn as a startup founder, builder, or early
 operator, SF-founder style. Free, no signup, no API key, nothing to
 connect.
 
@@ -26,8 +26,8 @@ copy-ready draft. You paste it in yourself.
 **In Claude Code, project-local:**
 
 ```bash
-git clone https://github.com/andreicovalescu/founder-linkedin-skills.git
-cp -r founder-linkedin-skills/skills/* .claude/skills/
+git clone https://github.com/andreicovalescu/linkedin-skills.git
+cp -r linkedin-skills/skills/* .claude/skills/
 ```
 
 **Global (all projects):**
