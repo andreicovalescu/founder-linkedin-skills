@@ -66,3 +66,21 @@ A list of 10, split three ways, tied to founder-comment's method:
 to founder-comment for real drafts.
 
 ## Output
+
+```
+WEEK OF [date]
+
+MON  engage only (20 min, list below)
+TUE  [time]  PROOF     [hook]  - [the real angle]
+WED  engage only
+THU  [time]  OPINION   [hook]  - [the real angle]
+FRI  [time]  TEACH     [hook]  - [the real angle]
+SAT  -
+SUN  [time]  STORY     [hook]  - [the real angle], if anything
+
+ENGAGE (5 reach / 3 peers / 2 buyers)
+  ...
+```
+
+Nothing here is scheduled or posted automatically. It's a plan; the user
+runs it, and says which day to draft next.
